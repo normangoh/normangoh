@@ -1,4 +1,4 @@
-### Hi there 👋, I am Norman.
+## Hi there 👋, I am Norman.
 
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="I am a Full Stack Developer!" title="I am a Full Stack Developer!" width="50" /> About me
 
