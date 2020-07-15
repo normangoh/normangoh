@@ -1,10 +1,11 @@
 ### Hi there 👋, I am Norman.
 
-### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" /> About me
+### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="I am a Full Stack Developer!" width="50" /> About me
 
 ```javascript
 const norman = {
   gender: "Male",
+  job: "Full Stack Developer",
   languages: ["Javascript", "HTML", "CSS", "Golang", "PHP"],
   frameworks: ["React", "React Native", "Wordpress", "Joomla!", "Opencart"],
 };
