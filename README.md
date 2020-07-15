@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Norman.
+
+### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" /> About me
+
+```javascript
+const norman = {
+  gender: "Male",
+  languages: ["Javascript", "HTML", "CSS", "Golang", "PHP"],
+  frameworks: ["React", "React Native", "Wordpress", "Joomla!", "Opencart"],
+};
+```
 
 <!--
 **normangoh/normangoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
