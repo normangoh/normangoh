@@ -5,9 +5,10 @@
 ```javascript
 const norman = {
   gender: "Male",
-  job: "Full Stack Developer",
-  languages: ["Javascript", "HTML", "CSS", "Golang", "PHP"],
-  frameworks: ["React", "React Native", "Wordpress", "Joomla!", "Opencart"],
+  job: "Software Development Team Lead",
+  languages: ["Golang", "JavaScript", "HTML", "CSS", "NodeJs", "PHP"],
+  libraries: ["ReactJs"],
+  frameworks: ["NextJs", "Wordpress", "Joomla!", "Opencart"],
 };
 ```
 
